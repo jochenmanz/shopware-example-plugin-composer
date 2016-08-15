@@ -1,0 +1,12 @@
+{
+    "name": "jochenmanz/example-plugin",
+    "require": {
+        "viison/address-splitter": "^0.2.2"
+    },
+    "authors": [
+        {
+            "name": "Jochen Manz",
+            "email": "manz@arvatis.com"
+        }
+    ]
+}
